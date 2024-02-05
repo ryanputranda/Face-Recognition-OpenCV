@@ -16,5 +16,5 @@ Langkah - langkah:
 Data identitas ditulis di hardcode face_recognition.py
 
 Project ini merupakan modifikasi project dari:
-Anirban Kar: https://github.com/thecodacus/Face-Recognition    
-Marcelo Rovai - MJRoBot.org @ 21Feb18  
+1. Anirban Kar: https://github.com/thecodacus/Face-Recognition
+2. Marcelo Rovai - MJRoBot.org @ 21Feb18  
