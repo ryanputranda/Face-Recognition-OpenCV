@@ -2,11 +2,11 @@
 ## Project Face Recognition dengan OpenCV
 
 Install requirements berikut:
-pip install opencv-python
-pip install opencv-contrib-python
-pip install face_recognition
-pip3 install mysql-connector-python
-pip install --force-reinstall opencv-contrib-python==4.1.2.30
+1. pip install opencv-python
+2. pip install opencv-contrib-python
+3. pip install face_recognition
+4. pip3 install mysql-connector-python
+5. pip install --force-reinstall opencv-contrib-python==4.1.2.30
 
 Langkah - langkah:
 1. Running face_dataset.py untuk mengcapture wajah user (data wajah akan muncul di dir dataset)
